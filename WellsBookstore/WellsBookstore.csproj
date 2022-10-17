@@ -12,4 +12,13 @@
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\DBContexts\" />
+    <Folder Include="wwwroot\JS\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WellsBookstoreArchitecture\WellsBookstoreArchitecture.csproj" />
+  </ItemGroup>
+
 </Project>

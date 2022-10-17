@@ -5,7 +5,10 @@ builder.Services.AddMvc();
 var app = builder.Build();
 
 app.UseRouting();
+app.UseStaticFiles();
 
-app.MapGet("/", () => "Hello World!");
+app.MapControllerRoute("default", "{Controller=Home}/{Action=Index}/{id?}");
+
+
 
 app.Run();
