@@ -3,7 +3,7 @@ namespace WellsBookstore.Models.DataModels;
 
 public class Author : IAuthor
 {
-    public Author(string firstName, string lastName, 
+    public Author(string firstName, string lastName,
         DateTime dateOfBirth, string description, string nationality)
     {
         this.ID = new Guid();

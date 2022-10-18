@@ -4,10 +4,10 @@ namespace WellsBookstore.Models.DataModels;
 public class Book : IPhysicalBook
 {
     public Book(string dimensions, int weight,
-        char iSBN, string title, 
-        int numberOfPages, DateTime publishedDate, 
-        IGenre genre, IPublisher publisher, IList<ILanguage> supportedLangauges, 
-        ICollection<IAuthor> authors, string imgUrl, string description, 
+        char iSBN, string title,
+        int numberOfPages, DateTime publishedDate,
+        IGenre genre, IPublisher publisher, IList<ILanguage> supportedLangauges,
+        ICollection<IAuthor> authors, string imgUrl, string description,
         decimal price, int isActive)
     {
         this.ID = new Guid();

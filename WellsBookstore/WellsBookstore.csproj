@@ -13,7 +13,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\DBContexts\" />
     <Folder Include="wwwroot\JS\" />
   </ItemGroup>
 

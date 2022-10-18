@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "E8HyUS1hHkGIdMlLDaLDEHm9YI5Au7dFqWRCxL14db2I/C5i4gp49mQ3Y41F5BkWIcISeTi3xwaj7u5urvhn8Q==",
-  "success": false,
+  "dgSpecHash": "b8veYJibXXizUPZ/2WsoaiX0K8QjwRTtc1uKiebj8Ho9iH7AlVn3zkMtgazIE2LOOpHdphOpXW5KFKgXXjNiXQ==",
+  "success": true,
   "projectFilePath": "C:\\Users\\Tim\\Documents\\GitHub\\PORTFOLIO-BOOKSTORE\\WellsBookstore\\WellsBookstore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tim\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
@@ -53,15 +53,5 @@
     "C:\\Users\\Tim\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\Tim\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "Project WellsBookstoreArchitecture is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project WellsBookstoreArchitecture supports: uap10.0.17763 (UAP,Version=v10.0.17763)",
-      "libraryId": "WellsBookstoreArchitecture",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

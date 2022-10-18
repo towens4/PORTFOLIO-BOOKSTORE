@@ -859,7 +859,7 @@
       },
       "WellsBookstoreArchitecture/1.0.0": {
         "type": "project",
-        "framework": "Unsupported,Version=v0.0",
+        "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
           "bin/placeholder/WellsBookstoreArchitecture.dll": {}
         },
@@ -2448,16 +2448,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "Project WellsBookstoreArchitecture is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project WellsBookstoreArchitecture supports: uap10.0.17763 (UAP,Version=v10.0.17763)",
-      "libraryId": "WellsBookstoreArchitecture",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

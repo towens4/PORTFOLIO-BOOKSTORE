@@ -1,0 +1,12 @@
+C:\Users\Tim\Documents\GitHub\PORTFOLIO-BOOKSTORE\WellsBookstoreArchitecture\bin\Debug\net6.0\WellsBookstoreArchitecture.deps.json
+C:\Users\Tim\Documents\GitHub\PORTFOLIO-BOOKSTORE\WellsBookstoreArchitecture\bin\Debug\net6.0\WellsBookstoreArchitecture.dll
+C:\Users\Tim\Documents\GitHub\PORTFOLIO-BOOKSTORE\WellsBookstoreArchitecture\bin\Debug\net6.0\WellsBookstoreArchitecture.pdb
+C:\Users\Tim\Documents\GitHub\PORTFOLIO-BOOKSTORE\WellsBookstoreArchitecture\obj\Debug\net6.0\WellsBookstoreArchitecture.csproj.AssemblyReference.cache
+C:\Users\Tim\Documents\GitHub\PORTFOLIO-BOOKSTORE\WellsBookstoreArchitecture\obj\Debug\net6.0\WellsBookstoreArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Documents\GitHub\PORTFOLIO-BOOKSTORE\WellsBookstoreArchitecture\obj\Debug\net6.0\WellsBookstoreArchitecture.AssemblyInfoInputs.cache
+C:\Users\Tim\Documents\GitHub\PORTFOLIO-BOOKSTORE\WellsBookstoreArchitecture\obj\Debug\net6.0\WellsBookstoreArchitecture.AssemblyInfo.cs
+C:\Users\Tim\Documents\GitHub\PORTFOLIO-BOOKSTORE\WellsBookstoreArchitecture\obj\Debug\net6.0\WellsBookstoreArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Documents\GitHub\PORTFOLIO-BOOKSTORE\WellsBookstoreArchitecture\obj\Debug\net6.0\WellsBookstoreArchitecture.dll
+C:\Users\Tim\Documents\GitHub\PORTFOLIO-BOOKSTORE\WellsBookstoreArchitecture\obj\Debug\net6.0\refint\WellsBookstoreArchitecture.dll
+C:\Users\Tim\Documents\GitHub\PORTFOLIO-BOOKSTORE\WellsBookstoreArchitecture\obj\Debug\net6.0\WellsBookstoreArchitecture.pdb
+C:\Users\Tim\Documents\GitHub\PORTFOLIO-BOOKSTORE\WellsBookstoreArchitecture\obj\Debug\net6.0\ref\WellsBookstoreArchitecture.dll

@@ -3,7 +3,7 @@
 public class Delivery : WellsBookstoreArchitecture.Interfaces.IDelivery
 {
     public Delivery(string email, string firstName, string lastName,
-        char phoneNumber, string addressLine1, string addressLine2, string postcode, 
+        char phoneNumber, string addressLine1, string addressLine2, string postcode,
         string suburb, string state, string country, int deliveryStatus,
         DateTime deliveryDate)
     {

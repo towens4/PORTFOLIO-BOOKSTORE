@@ -1,2 +1,10 @@
-﻿body {
+﻿:root{
+    --dark: hsl(0, 0%, 60%)
+}
+
+body {
+}
+
+.nav-item:hover{
+    background: var(--dark)
 }
